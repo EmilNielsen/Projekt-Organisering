@@ -13,20 +13,26 @@ Egon:
     
 Protagonist: 
     * (111 timer)
+
+---
     
 # Hvad er de individulle gode til??
 
-Benny: 
-    * Kode [Backend]
+Benny:  - Blue
+
+ * Kode
     
-Kjeld:
-     * Design og useability [Frontend]
+Kjeld: - Green
+
+ * Design og useability
     
-Egon: 
-     * Kode og Design [Frontend]
+Egon: - Red
+
+ * Kode og Design
     
-Protagonist: 
-    * 
+Protagonist: - Yellow
+    
+* Planlægning
     
     
 ---
