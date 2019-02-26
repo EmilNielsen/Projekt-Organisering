@@ -32,7 +32,7 @@ Egon: - Red
     
 Protagonist: - Yellow
     
-* Planlægning
+* Planlægning & kode
     
     
 ---
