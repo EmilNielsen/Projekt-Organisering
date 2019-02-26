@@ -25,3 +25,6 @@ Dette er ikke tilfældet for dette projekt:
 
 * Jeg er selv på 2 andre projekter hvilket gør at jeg kun kan arbejde ca. 1/3 af tiden
 
+Chefen har tiladt 10 overarbejdningstimer til hver af jer
+
+Kunden leverer billeder 10 dage inde i projektet
